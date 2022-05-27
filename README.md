@@ -2,5 +2,5 @@
 Some amazing themes for T-UI Launcher by me.
 
 # Screenshots
-## base 16 ------------------------ nord theme
+## base 16 ---------------------- nord theme
 <img src="https://github.com/pzeadrian/t-ui.Themes/blob/main/.screenshots/base16.png" width=300/>         <img src="https://github.com/pzeadrian/t-ui.Themes/blob/main/.screenshots/nord.png" width=300/>
