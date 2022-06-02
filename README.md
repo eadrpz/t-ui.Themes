@@ -8,3 +8,7 @@ Some amazing themes for T-UI Launcher by me.
 
 ### nord
 <img src="https://github.com/pzeadrian/t-ui.Themes/blob/main/.screenshots/nord.png" width=300/>
+<br />
+
+### gruvbox
+<img src="https://github.com/pzeadrian/t-ui.Themes/blob/main/.screenshots/gruvbox.png" width=300/>
